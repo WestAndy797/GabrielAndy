@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // MASSIVE SCHLONGS
+        // test code :O
         ?>
     </body>
 </html>
